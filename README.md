@@ -1,2 +1,3 @@
-# tugas2-pbwl
-Tugas 2 Pemograman Berbasis Web Lanjutan
+## Praktikum 10 Pemrograman Berbasis Web Lanjutan 2021/2022
+
+Lengkapilah sistem dengan Create Read Update dan Delete untuk setiap tabel yang diperlukan
